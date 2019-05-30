@@ -2,12 +2,12 @@
 A basic currency converter in ReactJs using the fixer.io api.
 
 ## Screenshots
-
-
-
+❮img src="images/screenshot.png" width="200" ❯
 ## Dependencies:
-Recharts: Is used in this project to plot plotting the evolution of the converted value over the past 30 days. The library is well used, 15k+ "used" and 11k+ "stars" on github. http://recharts.org/en-US/
-Axios: Is used in this project to make http request to fixer.io's api. The library supports the Promise API and default hanles data in the JSON format. https://github.com/axios/axios
+#### Recharts:
+Is used in this project to plot plotting the evolution of the converted value over the past 30 days. The library is well used, 15k+ "used" and 11k+ "stars" on github. http://recharts.org/en-US/
+#### Axios:
+Is used in this project to make http request to fixer.io's api. The library supports the Promise API and default hanles data in the JSON format. https://github.com/axios/axios
 
 ## Usage
 
